@@ -1,10 +1,6 @@
-# Tinder
-Tinder Swag
+# SWE->Swipe
 
-# Demo 
-https://www.youtube.com/watch?v=FTGa8Tjwfi8
-
-# Launch Tinder
+## Launch SWE->Swipe
 - Clone
-- Npm install in terminal
-- Run on IOS simulator or Android emulator
+- `npm install`
+- `react-native run-ios`
